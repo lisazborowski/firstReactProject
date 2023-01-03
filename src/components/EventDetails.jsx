@@ -1,6 +1,4 @@
 import React from "react"
-import { useContext } from "react"
-import { EventContext } from "../App";
 import { useParams } from "react-router-dom"
 export default function EventDetails() 
 {
